@@ -34,6 +34,21 @@ This project serves as a basic example of a smart calculator. You can further en
 
 Feel free to customize and extend the project based on your interests and requirements.
 
-## License
+## CONNECT WITH US :
 
-This project is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE) file.
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/hypnoz.hacker)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://payhip.com/coderedhacker)
+<a href="https://youtube.com/@hypnoz.hacker"><img title="YouTube" src="https://img.shields.io/badge/Hypnoz.Hackers-red?style=for-the-badge&logo=Youtube"></a>
+
+## BUY ME A COFFEE :
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/hypnozhackp"><img title="HYPNOZ HACKER" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+</p>
+
+## WARNING : 
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
+## Support
+
+For support, email hypnoz.hacker.official@gmail.com or join our [Hypnoz Hacker](https://youtube.com/@hypnoz.hacker)
